@@ -1,0 +1,2 @@
+java ShapeTest -f polyfor1.txt -s q -t a
+java ShapeTest -f polyfor1.txt -t a -s q
